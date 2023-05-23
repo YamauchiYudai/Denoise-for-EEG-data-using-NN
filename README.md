@@ -32,19 +32,19 @@ You can download the dataset I used from (https://github.com/ncclabsustech/Singl
 
 ### File contents
 
-    - `・ica.py`
-    - `・make_dataset.py`
-    - `・main.py`
-    - `・nn.py`
-    - `・caculate_test_mse.py`
-    - `・load_data.py`
-    - `model`
-        - `・denoise_model.pt`
-    - `nn_data`
-    - `train_set`
-    - `general_data`
-         - `・clean_EEG_test.npy`
-         - `・noiseEEG_test.npy`
+- `・ica.py`
+- `・make_dataset.py`
+- `・main.py`
+- `・nn.py`
+- `・caculate_test_mse.py`
+- `・load_data.py`
+- `model`
+    - `・denoise_model.pt`
+- `nn_data`
+- `train_set`
+- `general_data`
+     - `・clean_EEG_test.npy`
+     - `・noiseEEG_test.npy`
 
  
 ##Flow Chart
