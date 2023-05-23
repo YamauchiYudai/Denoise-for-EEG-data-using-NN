@@ -13,21 +13,7 @@ You can download the dataset I used from (https://github.com/ncclabsustech/Singl
 3. Karhunen, J., Oja, E., Wang, L., Vigario, R., & Joutsensalo, J. (1997). A class of neural networks for independent component analysis. IEEE Transactions on neural networks, 8(3), 486-504.
 
 
-## User manual
-###File contents
-    ・ica.py
-    ・make_dataset.py
-    ・main.py
-    ・nn.py
-    ・caculate_test_mse.py
-    ・load_data.py
-    model
-        ・denoise_model.pt
-    nn_data
-    train_set
-    general_data
-        ・clean_EEG_test.npy
-        ・noiseEEG_test.npy
+
  ## User manual
 
 ### File contents
