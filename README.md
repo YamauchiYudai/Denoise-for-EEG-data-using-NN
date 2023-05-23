@@ -28,6 +28,19 @@ You can download the dataset I used from (https://github.com/ncclabsustech/Singl
     general_data
         ・clean_EEG_test.npy
         ・noiseEEG_test.npy
+ ## User manual
+
+### File contents
+
+- `ica.py`
+- `make_dataset.py`
+- `main.py`
+- `nn.py`
+- `caculate_test_mse.py`
+- `load_data.py`
+
+
+ 
 ###Flow Chart
 1. load_data.py
 This program creates a dataset from the web[2]
