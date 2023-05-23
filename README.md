@@ -49,7 +49,7 @@ You can download the dataset I used from (https://github.com/ncclabsustech/Singl
  
 ##Flow Chart
 1. load_data.py
-This program creates a dataset from the web[2]
+This program creates a dataset from the web(https://github.com/ncclabsustech/Single-Channel-EEG-Denoise)
 . In this time, I define that train.csv is
 Single-Channel-EEG-Denoise/Example_data/EOG/1/ noiseEEG_test.npy, truth.csv is
 Single-Channel-EEG-Denoise/Example_data/EOG/1/ cleanEEG_test.npy.
