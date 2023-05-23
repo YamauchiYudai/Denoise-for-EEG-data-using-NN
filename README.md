@@ -32,7 +32,7 @@ You can download the dataset I used from (https://github.com/ncclabsustech/Singl
      - `・clean_EEG_test.npy`
      - `・noiseEEG_test.npy`
 
-## Flow Chart
+## Flowchart
 1. load_data.py
 This program creates a dataset from the web(https://github.com/ncclabsustech/Single-Channel-EEG-Denoise)
 . In this time, you define that train.csv is
