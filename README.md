@@ -56,7 +56,7 @@ and output_denoise.
 5. caculate_test_mse.py
 This program calculates for results of training which compares of results of ICA.
 
-###Other programs
+Other programs
 1. nn.py
 This program writes a model of neural network for main.py.
 2 denoise_model.pt
